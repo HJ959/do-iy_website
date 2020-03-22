@@ -60,7 +60,7 @@ p:hover, h1:hover {
   text-decoration: none;
 }
 .clickA:hover {
-  color: #05d105;
+  color: #41f141;
 }
 
 .page {
@@ -105,7 +105,7 @@ p:hover, h1:hover {
 
 /* Style the front side (fallback if image is missing) */
 .flip-card-front {
-  background-color: #05d105;
+  background-color: #41f141;
 }
 
 /* Style the back side */
