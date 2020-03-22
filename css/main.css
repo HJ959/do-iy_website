@@ -1,7 +1,7 @@
 /* Mobile Styles */
 @media only screen and (max-width: 451px) {
   h1 {
-    font-size: calc(1em + 4vw);
+    font-size: calc(1em + 3vw);
   }
 
   .page {
@@ -11,7 +11,7 @@
 /* Tablet Styles */
 @media only screen and (min-width: 452px) and (max-width: 960px) {
   h1 {
-    font-size: calc(1em + 3vw);
+    font-size: calc(1em + 2vw);
   }
 
   .page {
@@ -55,6 +55,8 @@ p:hover, h1:hover {
 }
 
 .clickA {
+  display: inline-block;
+  width: 50px;
   transition: color 0.7s ease;
   color: #261ab3;
   text-decoration: none;
