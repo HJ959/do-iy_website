@@ -47,7 +47,7 @@ body {
 }
 
 p, h1 {
-  padding: 5%;
+  padding: 2.4vh;
   transition: color 0.7s ease;
 }
 p:hover, h1:hover {
